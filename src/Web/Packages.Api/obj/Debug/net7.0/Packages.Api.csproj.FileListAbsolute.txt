@@ -33,3 +33,9 @@ C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\obj\Debug\net7.0\r
 C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\obj\Debug\net7.0\Packages.Api.pdb
 C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\obj\Debug\net7.0\Packages.Api.genruntimeconfig.cache
 C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\obj\Debug\net7.0\ref\Packages.Api.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\bin\Debug\net7.0\Packages.Domain.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\bin\Debug\net7.0\Packages.Domain.pdb
+C:\Users\Andrian\Desktop\ProjectPackages\src\Web\Packages.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll

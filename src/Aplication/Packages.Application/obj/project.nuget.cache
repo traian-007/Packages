@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "teaRqpT8EpuZuSsO3Q5uCfjA8vwQ+fwk0KX0WciCPaKmkvgi6QeAbsPIpjk5yWPhJQ7aQfY7MlkaFW4wUBNVgw==",
+  "dgSpecHash": "fsJ/qUkZ0zvCwAh719ZDq7s/+3EshjY6XocbvZf6H0DkAwikvVqC9c81ElBVV6v+WpUZ1AQ1JdCS9T6QYNSC2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Andrian\\Desktop\\ProjectPackages\\src\\Aplication\\Packages.Application\\Packages.Application.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrian\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.0.0 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
