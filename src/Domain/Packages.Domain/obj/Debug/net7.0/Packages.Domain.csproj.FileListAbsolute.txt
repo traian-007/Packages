@@ -1,0 +1,12 @@
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\bin\Debug\net7.0\Packages.Domain.deps.json
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\bin\Debug\net7.0\Packages.Domain.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\bin\Debug\net7.0\Packages.Domain.pdb
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\Packages.Domain.csproj.AssemblyReference.cache
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\Packages.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\Packages.Domain.AssemblyInfoInputs.cache
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\Packages.Domain.AssemblyInfo.cs
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\Packages.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\Packages.Domain.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\refint\Packages.Domain.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\Packages.Domain.pdb
+C:\Users\Andrian\Desktop\ProjectPackages\src\Domain\Packages.Domain\obj\Debug\net7.0\ref\Packages.Domain.dll
