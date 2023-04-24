@@ -1,0 +1,17 @@
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\bin\Debug\net7.0\Packages.Repository.deps.json
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\bin\Debug\net7.0\Packages.Repository.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\bin\Debug\net7.0\Packages.Repository.pdb
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\bin\Debug\net7.0\Packages.Application.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\bin\Debug\net7.0\Packages.Domain.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\bin\Debug\net7.0\Packages.Application.pdb
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\bin\Debug\net7.0\Packages.Domain.pdb
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\Packages.Repository.csproj.AssemblyReference.cache
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\Packages.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\Packages.Repository.AssemblyInfoInputs.cache
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\Packages.Repository.AssemblyInfo.cs
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\Packages.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\Packages.Repository.csproj.CopyComplete
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\Packages.Repository.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\refint\Packages.Repository.dll
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\Packages.Repository.pdb
+C:\Users\Andrian\Desktop\ProjectPackages\src\Infrastructure\Packages.Infrastructure\obj\Debug\net7.0\ref\Packages.Repository.dll

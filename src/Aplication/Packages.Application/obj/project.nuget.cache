@@ -1,14 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "fsJ/qUkZ0zvCwAh719ZDq7s/+3EshjY6XocbvZf6H0DkAwikvVqC9c81ElBVV6v+WpUZ1AQ1JdCS9T6QYNSC2Q==",
+  "dgSpecHash": "nWT/PjZNE9kWgNlKdsSnK3gyAOBGYZq8/ieAgy1Xrp9PGNwDvY3/Kf8voNH/WdwV6cCyxPUzCEs3NkCvlsbs3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Andrian\\Desktop\\ProjectPackages\\src\\Aplication\\Packages.Application\\Packages.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Andrian\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\Andrian\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
     "C:\\Users\\Andrian\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
     "C:\\Users\\Andrian\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
-    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.29.0\\microsoft.identitymodel.abstractions.6.29.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.29.0\\microsoft.identitymodel.jsonwebtokens.6.29.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.identitymodel.logging\\6.29.0\\microsoft.identitymodel.logging.6.29.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.29.0\\microsoft.identitymodel.tokens.6.29.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.29.0\\system.identitymodel.tokens.jwt.6.29.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Andrian\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": [
     {

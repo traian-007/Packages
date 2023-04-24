@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Packages.Api.Controllers.SeedWork;
-using Packages.Application.GetUserById;
+using Packages.Application.AccountAppLayer.UseCases.UserUseCases.GetUserById;
 
 namespace Packages.Api.Controllers
 {

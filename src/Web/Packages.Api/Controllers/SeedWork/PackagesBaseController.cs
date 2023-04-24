@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Packages.Api.Controllers.SeedWork
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class PackagesBaseController: ControllerBase
     {
         private IMediator _mediator;
